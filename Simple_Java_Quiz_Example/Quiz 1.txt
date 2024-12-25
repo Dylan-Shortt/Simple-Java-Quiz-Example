@@ -1,0 +1,10 @@
+Question 1: What is HTML?#A - Website code#B - Python library#C - Sandwich  
+Question 2: What does CPU stand for?#A - Computer Power Unit#B - Central Programming Unit#C - Central Processing Unit  
+Question 3: What is the purpose of a router?#A - Powers a computer#B - Connects devices to the internet#C - Bakes bread  
+Question 4: Which of the following is an operating system?#A - Windows#B - Photoshop#C - Chrome  
+Question 5: What does RAM stand for?#A - Random Access Memory#B - Run Always Memory#C - Read Access Machine  
+Question 6: What is a URL?#A - A computer part#B - A web address#C - A programming language  
+Question 7: What does HTTP stand for?#A - HighTech Transmission Program#B - Hyper Tool Technology Platform#C - HyperText Transfer Protocol  
+Question 8: What is a domain name?#A - A type of hardware#B - A software tool#C - The name of a website  
+Question 9: What is a cloud in IT?#A - Weather monitoring system#B - Online storage#C - A type of antivirus software  
+Question 10: Which of these is a programming language?#A - Python#B - Excel#C - Google  

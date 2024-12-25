@@ -1,0 +1,10 @@
+Question 1: What does "phishing" refer to in cybersecurity?#A - Catching fish with digital tools#B - Sending fraudulent emails to steal information#C - Testing network speeds
+Question 2: Which of these is a common form of malware?#A - Firewall#B - Trojan#C - Encryption
+Question 3: What is the primary purpose of a firewall?#A - Cooling the computer system#B - Encrypting files#C - Blocking unauthorized access to a network
+Question 4: What does "VPN" stand for?#A - Very Protected Node#B - Verified Password Notifier#C - Virtual Private Network
+Question 5: What is a strong password characteristic?#A - Short and unique#B - Contains a mix of letters, numbers, and symbols#C - Easy to remember, like "password123"
+Question 6: What is a DDoS attack?#A - Distributed Denial of Service#B - Downloading data from open sources#C - Delivering data over servers securely
+Question 7: What does "two-factor authentication" add to account security?#A - An additional layer of verification#B - A second password to remember#C - Faster login times
+Question 8: Which of these is an example of social engineering?#A - Encrypting sensitive files#B - Tricking a person into revealing their password#C - Guessing someone's password using software
+Question 9: What is the primary purpose of antivirus software?#A - Protecting against malicious software#B - Preventing overheating of hardware#C - Monitoring network speeds
+Question 10: What does "encryption" do to data?#A - Deletes sensitive information#B - Tracks who accesses data#C - Converts data into a secure format
